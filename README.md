@@ -35,18 +35,18 @@ What code i learned
 - Perl (2)
 - R (9)
 
-First Goal
+Goal List
 - Learning R
 - Convert Donut Code to all language i learn
 
 My Level of Understandment in Phrase
-1 I don't Give a Fuck
-2 I heard this somewhere, and interested
-3 I interested, and somehow can recognize it
-4 I just can code with textbook
-5 I Know the basic and code something
-6 I Know how it works
-7 Less Confident
-8 Confident
-9 Super Confident
-10 I Make This Language
+1. I don't Give a Fuck
+2. I heard this somewhere, and interested
+3. I interested, and somehow can recognize it
+4. I just can code with textbook
+5. I Know the basic and code something
+6. I Know how it works
+7. Less Confident
+8. Confident
+9. Super Confident
+10. I Make This Language
