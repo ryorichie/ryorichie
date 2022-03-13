@@ -1,11 +1,20 @@
+My Social Media
+[youtube](https://www.youtube.com/channel/UCc3BiBjA9_6_E95aH5IbKgA)
+[instagram](https://www.instagram.com/ryo_richiee/)
+[facebook](https://web.facebook.com/ryo.richie.1)
+
+
+
+
+
+
+-------------------- Below Is My GIt Profil -----------------------------
 - 👋 Hi, I’m @ryorichie
 - 👀 I’m interested in Coding
 - 🌱 My main focus now is R
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: ryorichie@gmail.com
 
-
-google.com
 
 What code i learned
 - Phyton (2)
