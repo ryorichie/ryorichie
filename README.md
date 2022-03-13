@@ -6,38 +6,17 @@ My Social Media
 - [GITHUB](github.com/ryorichie) What i do mostly now
 
 
-
-
-
-
-
-
-
-
-
-
 -------------------- Below Is My GIt Profil -----------------------------
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - 👋 Hi, I’m @ryorichie
-- 👀 I’m interested in Coding
-- 🌱 My main focus now is R
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me: ryorichie@gmail.com
+- 👀 I’m interested in Anime, Blockchain, Code, Hentai, Manga
+- 🌱 My main focus now is R, College, and Japanese
+- 📫 How to reach me: Go to link above
 
+My Thought
+- Hentai is an art
+- Code is fun
+- Become better everyday
 
 What code i learned
 - Phyton (2)
