@@ -6,7 +6,32 @@ My Social Media
 - [GITHUB](github.com/ryorichie) What i do mostly now
 
 
+
+
+
+
+
+
+
+
+
+
 -------------------- Below Is My GIt Profil -----------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 👋 Hi, I’m @ryorichie
 - 👀 I’m interested in Coding
 - 🌱 My main focus now is R
