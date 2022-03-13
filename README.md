@@ -1,11 +1,9 @@
 My Social Media
-[youtube](https://www.youtube.com/channel/UCc3BiBjA9_6_E95aH5IbKgA)
-[instagram](https://www.instagram.com/ryo_richiee/)
-[facebook](https://web.facebook.com/ryo.richie.1)
-
-
-
-
+- [youtube](https://www.youtube.com/channel/UCc3BiBjA9_6_E95aH5IbKgA) Berisi Kegabuta
+- [instagram](https://www.instagram.com/ryo_richiee/)
+- [facebook](https://web.facebook.com/ryo.richie.1) Kurang Lebih Same Kek IG
+- [twitter](https://twitter.com/ryo_richiee) Aib
+- [github](github.com/ryorichie)
 
 
 -------------------- Below Is My GIt Profil -----------------------------
