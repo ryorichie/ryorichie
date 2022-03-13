@@ -6,6 +6,8 @@ My Social Media
 - [GITHUB](github.com/ryorichie) What i do mostly now
 
 
+![](https://komarev.com/ghpvc/?username=ryorichie)
+
 -------------------- Below Is My GIt Profil -----------------------------
 
 - 👋 Hi, I’m @ryorichie
