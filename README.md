@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me: ryorichie@gmail.com
 
+
+google.com
+
 What code i learned
 - Phyton (2)
 - JavaScript (7)
