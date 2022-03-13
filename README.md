@@ -11,12 +11,12 @@ My Social Media
 -------------------- Below Is My GIt Profil ------------------------
 
 - 👋 Hi, I’m @ryorichie
-- 👀 I’m interested in Anime, Blockchain, Code, Hentai, Manga
+- 👀 I’m Obsessed in Anime, Blockchain, Code, Hentai, Manga
 - 🌱 My main focus now is R, College, and Japanese
 - 📫 How to reach me: Go to link above
 
 My Thought
-- Hentai is an art
+- Hentai is an art (I'm pervet, and you too! Everyone have Obscenity Soul in their-self)
 - Code is fun
 - Become better everyday
 
