@@ -8,7 +8,7 @@ My Social Media
 
 ![](https://komarev.com/ghpvc/?username=ryorichie)
 
--------------------- Below Is My GIt Profil -----------------------------
+-------------------- Below Is My GIt Profil -------------------------
 
 - 👋 Hi, I’m @ryorichie
 - 👀 I’m interested in Anime, Blockchain, Code, Hentai, Manga
