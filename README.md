@@ -12,7 +12,7 @@ My Social Media
 
 - 👋 Hi, I’m @ryorichie
 - 👀 I’m Obsessed in Anime, Blockchain, Code, Hentai, Manga
-- 🌱 My main focus now is R, College, and Japanese
+- 🌱 My main focus now is Rust, College, and Japanese
 - 📫 How to reach me: Go to link above
 
 My Thought
@@ -30,7 +30,7 @@ What code i learned
 - C# (2)
 - Shell
 - Java (2)
-- Rust (1)
+- Rust (2)
 - HTML (5)
 - PHP (2)
 - Ruby (2)
@@ -52,8 +52,9 @@ What code i learned
 - R (9)
 
 Goal List
-- Learning R
-- Convert Donut Code to all language i learn
+- Learning R (Completed)
+- Convert Donut Code to all language i learn (Ongoing)
+- Learnin Rust (Ongoing)
 
 My Level of Understandment in Phrase
 1. I don't Give a Fuck
