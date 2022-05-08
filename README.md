@@ -20,6 +20,30 @@ My Thought
 - Code is fun
 - Become better everyday
 
+My Loss and Achivement
+(In Progress since 8 May 2022 Till Death)
+2019
+- I Built My First Computer, Spec Below
+* Ryzen 2200 G
+* MSI B450 M Pro VDH
+* Panasonic TV Monitor
+* PSU 1st player 500 W
+* Casing Cube Acrillic with fan bonus
+* 16 Gb Ram 3200 Mhz
+
+
+
+2020
+2021
+- Start Learn Crypto
+- Start Crypto Stupidly Gain 20 Mil, Then Stop Because lose 5 Mil in 1 Hor
+- Start College in Indonesian Open University
+- 
+
+
+2022
+- Start Trade Forex and Learn Economcs
+
 What code i learned
 - Phyton (2)
 - JavaScript (7)
