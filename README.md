@@ -38,56 +38,15 @@ My Loss and Achivement
 - Start Learn Crypto
 - Start Crypto Stupidly Gain 20 Mil, Then Stop Because lose 5 Mil in 1 Hor
 - Start College in Indonesian Open University
-- 
 
 
 2022
 - Start Trade Forex and Learn Economcs
+- Stop Trade Forex, Lost 15 Million
+- Start Investing in Stock, start 8 Million
 
-What code i learned
-- Phyton (2)
-- JavaScript (7)
-- C++ (2)
-- Type Script (2)
-- C (2)
-- Go (2)
-- C# (2)
-- Shell
-- Java (2)
-- Rust (2)
-- HTML (5)
-- PHP (2)
-- Ruby (2)
-- Lua (1)
-- Kotlin (2)
-- CSS (1)
-- Swift (1)
-- Jupyter Notebook (1)
-- Emacs Lisp (1)
-- Vim Script (1)
-- Dart (1)
-- Haskell (2)
-- Scala
-- Power Shell
-- Solidity (2)
-- SCSS (1)
-- Vue (1)
-- Perl (2)
-- R (9)
 
 Goal List
 - Learning R (Completed)
 - Convert Donut Code to all language i learn (Ongoing)
 - Learnin Rust (Ongoing)
-
-My Level of Understandment in Phrase
-1. I don't Give a Fuck
-2. I heard this somewhere, and interested
-3. I interested, and somehow can recognize it
-4. I just can code with textbook
-5. I Know the basic and code something
-6. I Know how it works
-7. Less Confident
-8. Confident
-9. Super Confident
-10. I Make This Language
