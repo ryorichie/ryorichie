@@ -11,8 +11,8 @@ My Social Media
 -------------------- Below Is My GIt Profil ------------------------
 
 - 👋 Hi, I’m @ryorichie
-- 👀 I’m Obsessed in Anime, Blockchain, Code, Hentai, Manga
-- 🌱 My main focus now is Rust, College, and Japanese
+- 👀 I’m Obsessed in Anime,Machine Learning, Code, Manga
+- 🌱 My main focus now is Machine Learning, College, and Japanese
 - 📫 How to reach me: Go to link above
 
 My Thought
@@ -26,10 +26,11 @@ My Loss and Achivement
 - I Built My First Computer, Spec Below
 * Ryzen 2200 G
 * MSI B450 M Pro VDH
-* Panasonic TV Monitor
+* Koorui 165 Hz
 * PSU 1st player 500 W
 * Casing Cube Acrillic with fan bonus
 * 16 Gb Ram 3200 Mhz
+* RX 580 8GB
 
 
 
@@ -49,4 +50,4 @@ My Loss and Achivement
 Goal List
 - Learning R (Completed)
 - Convert Donut Code to all language i learn (Ongoing)
-- Learnin Rust (Ongoing)
+- Learning Rust (Ongoing)
