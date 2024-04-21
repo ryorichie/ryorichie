@@ -16,7 +16,6 @@ My Social Media
 - 📫 How to reach me: Go to link above
 
 My Thought
-- Hentai is an art (I'm pervet, and you too! Everyone have Obscenity Soul in their-self. 177013 is Masterpiece)
 - Code is fun
 - Become better everyday
 
